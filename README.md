@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new backend technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying financial literacy.
 - 💼 &nbsp; Working as a Backend Developer at Fabros.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
 
