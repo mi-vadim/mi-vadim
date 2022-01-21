@@ -18,7 +18,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=nuxt.js)
+  ![React](https://img.shields.io/badge/-Nuxt.js-333333?style=flat&logo=nuxt.js)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Postgresql](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
