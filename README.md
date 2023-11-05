@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new backend technologies and developing software solutions.
 - 🎓 &nbsp; Studying financial literacy.
-- 💼 &nbsp; Working as a Backend Developer at Fabros.
+- 💼 &nbsp; Working as a Backend Developer at CoinsPaid.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Blockchain.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
